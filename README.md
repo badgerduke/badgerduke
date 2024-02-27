@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/erichamacher"><img src="https://api.daily.dev/devcards/v2/z3uma8ThTjAHH2yJsaINt.png?type=default&r=n2b" width="356" alt="Eric Hamacher's Dev Card"/></a>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
